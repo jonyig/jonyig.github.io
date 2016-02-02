@@ -1,0 +1,32 @@
+.testdiv{
+
+
+	margin: 0 auto; 
+	//border: 2px solid blue;
+ 	width:20px;
+ 	height:20px;
+	//background: #454CFF;
+	//color: #454CFF;
+	//background-color:#cc0000;
+}
+.red{
+background-color:red;
+width:20px;
+height:20px;
+}
+body{
+	
+
+	}
+.orange{
+
+	background-color:orange;
+width:20px;
+height:20px;
+}
+.yellow{
+
+	background-color:yellow;
+width:20px;
+height:20px;
+}
