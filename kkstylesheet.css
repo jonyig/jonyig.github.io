@@ -3,30 +3,49 @@
 
 	margin: 0 auto; 
 	//border: 2px solid blue;
- 	width:20px;
- 	height:20px;
+ 	width:30px;
+ 	height:30px;
 	//background: #454CFF;
 	//color: #454CFF;
 	//background-color:#cc0000;
 }
-.red{
-background-color:red;
-width:20px;
-height:20px;
-}
-body{
-	
+
+button{
+	width:30px;
+height:30px;
 
 	}
+.red{
+background-color:red;
+
+}
 .orange{
 
 	background-color:orange;
-width:20px;
-height:20px;
+
 }
 .yellow{
 
 	background-color:yellow;
-width:20px;
-height:20px;
+
+}
+.green{
+
+	background-color:green;
+
+}
+.blue{
+
+	background-color:blue;
+
+}
+.indigo{
+
+	background-color:indigo;
+
+}
+.cyan{
+
+	background-color:cyan;
+
 }
