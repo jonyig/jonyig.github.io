@@ -1,0 +1,91 @@
+ul.playlist {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul.playlist li {
+	margin-bottom: 5px;
+}
+ul.playlist li a img {
+	border: 0;
+
+	vertical-align: middle;
+
+}
+.containerslideToggle{
+width:240px;
+margin-bottom: 5px;
+}
+
+.panel1,p.flip1
+{
+margin:0px;
+padding:5px;
+text-align:center;
+background:#e5eecc;
+border:solid 1px #c3c3c3;
+
+}
+.flip1{
+	opacity: 0.6;
+}
+.panel1
+{
+height:120px;
+display:none;
+
+}
+.panel2,p.flip2
+{
+margin:0px;
+padding:5px;
+text-align:center;
+background:#e5eecc;
+border:solid 1px #c3c3c3;
+
+}
+.flip2{
+	opacity: 0.6;
+}
+.panel2
+{
+height:120px;
+display:none;
+
+}
+.panel3,p.flip3
+{
+margin:0px;
+padding:5px;
+text-align:center;
+background:#e5eecc;
+border:solid 1px #c3c3c3;
+
+}
+.flip3{
+	opacity: 0.6;
+}
+.panel3
+{
+height:120px;
+display:none;
+
+}
+.panel4,p.flip4
+{
+margin:0px;
+padding:5px;
+text-align:center;
+background:#e5eecc;
+border:solid 1px #c3c3c3;
+
+}
+.flip4{
+	opacity: 0.6;
+}
+.panel4
+{
+height:120px;
+display:none;
+
+}

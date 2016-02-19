@@ -1,5 +1,12 @@
 $(document).ready(function(){
 
+
+
+
+
+
+
+
 	$('.red').mouseover(function(){
 		$('body').css("background-color","red");
 
@@ -68,4 +75,28 @@ $(document).ready(function(){
 	$('.cyan').mouseout(function(){
 		$('body').css("background-color","white");
 	});
+
+	//magenta
+	$('.magenta').mouseover(function(){
+		$('body').css("background-color","magenta");
+
+	});
+
+	$('.magenta').mouseout(function(){
+		$('body').css("background-color","white");
+	});
+
+
+	//brown
+	$('.brown').mouseover(function(){
+		$('body').css("background-color","brown");
+
+	});
+
+	$('.brown').mouseout(function(){
+		$('body').css("background-color","white");
+	});
+
+
+
 });

@@ -2,22 +2,33 @@
 
 
 	margin: 0 auto; 
-	//border: 2px solid blue;
- 	width:30px;
- 	height:30px;
-	//background: #454CFF;
-	//color: #454CFF;
-	//background-color:#cc0000;
+	
+ 	width: 120px;
+	height: 120px;
+	/*//border-radius: 100px;*/
+	/*background: #454CFF;*/
+/*	//color: #454CFF;*/
+	/*background-color:#cc0000;*/
 }
-
+h2{
+	left:50px;
+	color:red;
+}
 button{
-	width:30px;
-height:30px;
+
+
+ /*margin: 0px auto;*/
+	width: 50%;
+	height: 50%;
+    border-radius: 100%;
+	border:2px solid #00A99D;
+        background: #4D4D4D; 
+
 
 	}
 .red{
 background-color:red;
-
+ margin: 0px auto;
 }
 .orange{
 
@@ -47,5 +58,15 @@ background-color:red;
 .cyan{
 
 	background-color:cyan;
+
+}
+.magenta{
+
+	background-color:magenta;
+
+}
+.brown{
+
+	background-color:brown;
 
 }
